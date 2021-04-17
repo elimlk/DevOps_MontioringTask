@@ -18,5 +18,3 @@ and time is:&nbsp; <font color="#0000ff">
 </table>
 </center>
 </div>
-</body>
-</html>
